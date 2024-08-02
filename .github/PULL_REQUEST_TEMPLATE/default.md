@@ -1,5 +1,5 @@
 ---
-name: ''
+name: 'Pull Request'
 about: ''
 title: ''
 labels: ''
